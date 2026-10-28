@@ -1,0 +1,21 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Antigravity / internal logs
+.agents/
+.gemini/
